@@ -1,6 +1,6 @@
-# Kafka HomeBroker
+# Nestjs Backend
 
-This application simulates a HomeBroker client using Kafka to deal with event streams.
+REST Api, to publish a transaction into Kafka that will be consumed by Golang backend.
 
 ## Requirements
 

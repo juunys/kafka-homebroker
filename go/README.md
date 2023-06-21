@@ -1,6 +1,6 @@
 # Golang Backend
 
-The golang backend application consumes the kafka messages, process and put the response into kafka
+The golang backend application consumes the kafka messages, process a matched orders and put the response into kafka
 
 ## Requirements
 
